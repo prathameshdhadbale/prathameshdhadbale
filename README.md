@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Python • SQL • Data-Driven Systems</h3>
+<h3 align="center">Full Stack Developer | Aspiring AI/ML Engineer | Python • SQL • Data-Driven Systems</h3>
 
 <p align="center">
 I build practical, real-world projects with a focus on data analysis, machine learning fundamentals, and clean, scalable code.
