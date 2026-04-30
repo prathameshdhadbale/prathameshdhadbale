@@ -39,28 +39,28 @@
 
 ## 🚀 Featured Projects
 
-### 🗂️ [DevBoard](https://github.com/prathameshdhadbale) — Job & Internship Tracker
+### 🗂️ [DevBoard](https://github.com/prathameshdhadbale/DevBoard) — Job & Internship Tracker
 > React • Node.js • Express.js • PostgreSQL • JWT • Vercel
 
 A Kanban-style job application tracker with pipeline stages (Applied → Interview → Offer → Rejected), deadline tracking, and JWT-protected routes. Deployed with a clean split-deploy architecture (Vercel frontend + standalone backend).
 
 ---
 
-### 🧠 [CogniFlow](https://github.com/prathameshdhadbale) — AI-Powered Task Scheduler
+### 🧠 [CogniFlow](https://github.com/prathameshdhadbale/CogniFlow) — AI-Powered Task Scheduler
 > React • Node.js • MongoDB • Gemini 1.5 Flash • Zustand • Framer Motion
 
 An AI scheduling engine that parses natural language task inputs using Gemini 1.5 Flash, infers complexity, and auto-generates optimized daily workflows. Includes a productivity insight pipeline surfacing peak-hour patterns and consistency streaks.
 
 ---
 
-### 💰 [SmartFinance](https://github.com/prathameshdhadbale) — Personal Finance Platform
+### 💰 [SmartFinance](https://github.com/prathameshdhadbale/SmartFinance) — Personal Finance Platform
 > React • Node.js • Express.js • MongoDB • Recharts • TailwindCSS • Vercel • Render
 
 A full-stack finance tracker with 6 REST API modules (auth, transactions, accounts, debts, budgets, analytics), multi-account support (bank, credit card, cash), and interactive Recharts dashboards for income/expense trend visualization.
 
 ---
 
-### 📈 [Market Insights](https://github.com/prathameshdhadbale) — Stock Data Pipeline
+### 📈 [Market Insights](https://github.com/prathameshdhadbale/market_insights) — Stock Data Pipeline
 > Python • Pandas • NumPy • yfinance • Matplotlib
 
 A 4-module Python pipeline (fetch → clean → analyze → visualize) ingesting real-time OHLCV stock data from Yahoo Finance. Computes trend and volatility metrics across multiple equity symbols simultaneously.
